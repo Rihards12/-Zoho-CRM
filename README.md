@@ -5,3 +5,4 @@ Required. 1.2.2 Syncing to Zoho CRM When entry is filled, create automatically a
 “Last Name” Field “Campaign Description” prefill constant value - BDDM Test” Lead layout - Standard 2 Resources Zoho Account User: senior.riga.test@gmail.com Psw: 
 senior.college (!) can be used only for Zoho account (!!) do not set Multi-Factor Authentication 3 Submission When the solution is ready, send the link to form 
 to martins.berzins@harvestconsulting.lv, subject: “BDDM Selection Task”.
+https://docs.google.com/document/d/11p1DwSNxdV10OCTtGGX1PlWkaZNWk7Se4kbjkPbQCPc/edit
